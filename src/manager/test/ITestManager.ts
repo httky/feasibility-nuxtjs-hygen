@@ -1,0 +1,5 @@
+/**
+ * ITestManager
+ *
+ */
+export interface ITestManager {}

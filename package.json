@@ -7,6 +7,8 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
+    "new:domain": "hygen new domain",
+    "new:manager": "hygen new manager",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
     "lint": "npm run lint:js",
     "test": "jest"
@@ -28,6 +30,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1",
+    "hygen": "^6.1.0",
     "jest": "^27.0.5",
     "prettier": "^2.3.2",
     "ts-jest": "^27.0.3",

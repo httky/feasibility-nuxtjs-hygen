@@ -1,0 +1,5 @@
+/**
+ * ITest
+ *
+ */
+export interface ITest {}

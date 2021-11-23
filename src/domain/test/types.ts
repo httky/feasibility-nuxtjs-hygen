@@ -1,0 +1,1 @@
+export type DomainName = 'Test'
